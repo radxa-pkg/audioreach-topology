@@ -1,0 +1,18 @@
+Source: audioreach-topology
+Maintainer: "Radxa Computer Co., Ltd" <dev@radxa.com>
+Section: admin
+Priority: standard
+Standards-Version: 4.6.0
+Build-Depends: debhelper (>=12~),
+               devscripts,
+               lintian,
+               dh-exec,
+               pandoc,
+
+Package: audioreach-topology
+Architecture: all
+Section: admin
+Priority: optional
+Depends: ${misc:Depends},
+Description: audioreach-topology
+ This package provides the audioreach-topology.
