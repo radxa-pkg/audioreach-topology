@@ -8,11 +8,14 @@ Build-Depends: debhelper (>=12~),
                lintian,
                dh-exec,
                pandoc,
+               alsa-utils,
+               cmake,
+               m4,
 
-Package: audioreach-topology
+Package: firmware-qcom-audioreach
 Architecture: all
 Section: admin
 Priority: optional
 Depends: ${misc:Depends},
-Description: audioreach-topology
- This package provides the audioreach-topology.
+Description: Qualcomm AudioReach firmware
+ This package provides the Qualcomm AudioReach firmware.

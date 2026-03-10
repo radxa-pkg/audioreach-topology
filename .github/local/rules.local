@@ -1,0 +1,16 @@
+DH_AUTO_ARGUMENTS := --buildsystem=cmake --sourcedirectory=src --builddirectory=out
+
+override_dh_auto_clean:
+	dh_auto_clean $(DH_AUTO_ARGUMENTS)
+
+override_dh_auto_configure:
+	FW_LOCATION=/lib/firmware dh_auto_configure $(DH_AUTO_ARGUMENTS)
+
+override_dh_auto_build:
+	dh_auto_build $(DH_AUTO_ARGUMENTS)
+
+override_dh_auto_test:
+	dh_auto_test $(DH_AUTO_ARGUMENTS)
+
+override_dh_auto_install:
+	dh_auto_install $(DH_AUTO_ARGUMENTS)
