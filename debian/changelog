@@ -1,5 +1,10 @@
-audioreach-topology (1.0.2-1) UNRELEASED; urgency=medium
+audioreach-topology (1.0.2-1) unstable; urgency=medium
 
+  [ "Radxa Computer Co., Ltd" ]
   * Add initial Debian packaging support
 
- -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 01 Jan 1970 08:00:00 +0800
+  [ ZHANG Yuntian ]
+  * fix: add symlink to kernel module search path
+  * chore: upload to sc8280xp repo
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Wed, 08 Apr 2026 06:51:58 +0000
