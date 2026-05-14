@@ -1,3 +1,19 @@
+audioreach-topology (1.0.3-1) UNRELEASED; urgency=medium
+
+  [ Jiali Chen ]
+  * fix: add 0001-audioreach-qcs6490-add-Radxa-CM-Q64.patch
+
+  [ ZHANG Yuntian ]
+  * feat: support Dragon Q8B
+  * fix: add missing link
+  * Update pkg.conf.template with additional releases\
+  * chore: update to 1.0.3
+
+  [ Stephen Chen ]
+  * fix: Fix Dragon Q8B audio
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 14 May 2026 07:57:07 +0000
+
 audioreach-topology (1.0.2-1) unstable; urgency=medium
 
   [ "Radxa Computer Co., Ltd" ]
