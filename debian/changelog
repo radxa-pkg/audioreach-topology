@@ -1,4 +1,4 @@
-audioreach-topology (1.0.3-1) UNRELEASED; urgency=medium
+audioreach-topology (1.0.3-1) unstable; urgency=medium
 
   [ Jiali Chen ]
   * fix: add 0001-audioreach-qcs6490-add-Radxa-CM-Q64.patch
@@ -12,7 +12,7 @@ audioreach-topology (1.0.3-1) UNRELEASED; urgency=medium
   [ Stephen Chen ]
   * fix: Fix Dragon Q8B audio
 
- -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 14 May 2026 07:57:07 +0000
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 14 May 2026 08:04:27 +0000
 
 audioreach-topology (1.0.2-1) unstable; urgency=medium
 
