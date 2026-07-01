@@ -1,3 +1,10 @@
+audioreach-topology (1.0.4-2) unstable; urgency=medium
+
+  [ Jiali Chen ]
+  * fix: update CM-Q64 patch to apply cleanly on latest source
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Wed, 01 Jul 2026 06:33:07 +0000
+
 audioreach-topology (1.0.4-1) unstable; urgency=medium
 
   [ ZHANG Yuntian ]
