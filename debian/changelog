@@ -1,3 +1,14 @@
+audioreach-topology (1.0.4-3) unstable; urgency=medium
+
+  [ Stephen Chen ]
+  * feat: Add Radxa DragonBay 4 Pro
+  * feat: Add Radxa DragonStation 6
+
+  [ Jiali Chen ]
+  * feat: support Radxa Dragon Q6B
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Thu, 17 Sep 2026 08:39:06 +0000
+
 audioreach-topology (1.0.4-2) unstable; urgency=medium
 
   [ Jiali Chen ]
